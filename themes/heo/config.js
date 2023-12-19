@@ -5,16 +5,16 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.jielihaofeng.online' },
-    // { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '马上就要圣诞节🎄，祝大家节日快乐', url: 'https://blog.jielihaofeng.online' },
+    { title: '生活不易，祝你早安午安晚安～', url: 'https://blog.jielihaofeng.online' }
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'JIELIHAOFENG.ONLINES',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_1: '分享生活',
+  HEO_HERO_TITLE_2: '与技术学习',
+  HEO_HERO_TITLE_3: 'JIELIHAOFENG.ONLINE',
+  HEO_HERO_TITLE_4: '博客上线',
+  HEO_HERO_TITLE_5: 'NotionNext+Notion 轻松发布博客',
   HEO_HERO_TITLE_LINK: 'https://jielihaofeng.online',
 
   // 英雄区显示三个置顶分类
