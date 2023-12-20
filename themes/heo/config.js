@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与技术学习',
   HEO_HERO_TITLE_3: 'JIELIHAOFENG.ONLINE',
   HEO_HERO_TITLE_4: '博客上线',
-  HEO_HERO_TITLE_5: 'NotionNext+Notion 轻松发布博客',
+  HEO_HERO_TITLE_5: '基于NotionNext轻松发布博客',
   HEO_HERO_TITLE_LINK: 'https://blog.jielihaofeng.online',
 
   // 英雄区显示三个置顶分类
