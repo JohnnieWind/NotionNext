@@ -5,7 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '马上就要圣诞节🎄，祝大家节日快乐', url: 'https://blog.jielihaofeng.online' },
+    { title: '欢迎各位大佬莅临指导～', url: 'https://jielihaofeng.online' },
+    { title: '马上就要元旦节，祝大家节日快乐', url: 'https://blog.jielihaofeng.online' },
     { title: '生活不易，祝你早安午安晚安～', url: 'https://blog.jielihaofeng.online' }
   ],
 
